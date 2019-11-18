@@ -45,7 +45,7 @@ function Cart () {
                 </ul>
             </div>
             <div className="collection">
-                <li className="collection-item"><b>Total: {total} $</b></li>
+                <li className="collection-item"><b>Total: {total.toFixed(2)} $</b></li>
             </div>
             <div className="checkout">
                 <button className="waves-effect waves-light btn">Checkout</button>
