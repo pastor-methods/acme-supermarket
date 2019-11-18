@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### `yarn install`
+
+Generates `node_modules` folder. 
+You need to do this before running the scripts. 
+
 ## Available Scripts
 
 In the project directory, you can run:
